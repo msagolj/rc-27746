@@ -164,6 +164,12 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "imageMimeType",
+        "value": "",
+        "label": "Image Mime Type"
       }
     ]
   },
