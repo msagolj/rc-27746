@@ -20,6 +20,13 @@
         "name": "keywords",
         "multi": true,
         "label": "Keywords"
+      },
+      {
+        "component": "richtext",
+        "name": "json-ld",
+        "value": "",
+        "label": "JSON-LD",
+        "valueType": "string"
       }
     ]
   },
