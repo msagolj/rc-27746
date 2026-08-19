@@ -183,6 +183,12 @@
         "name": "rows",
         "value": "",
         "label": "Rows"
+      },
+      {
+        "component": "text",
+        "name": "name",
+        "label": "Block Name",
+        "description": "Drives the block-name CSS class (e.g. columns-savings) instead of the default columns class"
       }
     ]
   },
